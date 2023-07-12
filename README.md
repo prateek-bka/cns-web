@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+<h1 align="center">CNS Web Tech</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br />
+<p align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> 
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
+    <img src="https://camo.githubusercontent.com/5d58ae623237663dd0d209c197c95181d672cbc62ad322039de3c37f1647bcce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4368616b726125323055492d3362633762643f7374796c653d666f722d7468652d6261646765266c6f676f3d6368616b72617569266c6f676f436f6c6f723d7768697465" alt="chakraUI"/>
+</p>
 
-## Available Scripts
+<br />
 
-In the project directory, you can run:
+<h3 align="center"><a href="https://cns-web-lake.vercel.app/"><strong>Want to see live preview »</strong></a></h3>
 
-### `npm start`
+### 🔗 Live Deployed URL: https://cns-web-lake.vercel.app/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<br />
+<br />
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Screenshots
 
-### `npm test`
+<h3>Homepage Desktop Screenshot</h3>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img width="688" alt="desktop_1" src="https://github.com/prateek-bka/cns-web/assets/96651559/8c74cb55-fd24-43fb-b612-2eb19c9d3b85">
+<br />
+<img width="713" alt="desktop_2" src="https://github.com/prateek-bka/cns-web/assets/96651559/885cf23c-a66b-4378-9e68-e243178ac7a5">
 
-### `npm run build`
+<br />
+<h3>Homepage Mobile Responsive Screenshot</h3>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img width="542" alt="mobile_responsive_1" src="https://github.com/prateek-bka/cns-web/assets/96651559/75b834ae-f324-4d62-989e-1f597247513c">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<br />
+<img width="527" alt="mobile_responsive_2" src="https://github.com/prateek-bka/cns-web/assets/96651559/782c0680-5648-4f56-815e-fa441474456d">
+<br />
+<img width="535" alt="mobile_responsive_3" src="https://github.com/prateek-bka/cns-web/assets/96651559/d076505a-ea89-4615-bc41-da562437a268">
+<br />
+<br />
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Contributor:
 
-### `npm run eject`
+### Prateek Agrawal
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<a href="https://linkedin.com/in/prateekbka">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" />
+</a>
+<a title="prateek.bka@gmail.com" href="mailto:prateek.bka@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="prateek.bka@gmail.com" />
+</a>
+<br />
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<br />
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Show your support
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Give a ⭐️ if you like this project!
